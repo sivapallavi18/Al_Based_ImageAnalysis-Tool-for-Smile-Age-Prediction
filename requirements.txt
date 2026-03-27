@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+deepface==0.0.93
+tensorflow==2.16.1
+keras==3.3.3
+mtcnn==0.1.1
+retina-face==0.0.13
+mediapipe==0.10.14
+gdown==5.1.0
+requests==2.32.3

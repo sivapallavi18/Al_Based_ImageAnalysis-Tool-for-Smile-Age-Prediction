@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Selfies folder
+selfies/
+
+# Model files (if you download any weights)
+*.h5
+*.pt
+*.ckpt
+models/
